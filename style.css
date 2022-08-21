@@ -1,0 +1,17 @@
+body {
+    background-color:lightgrey;
+    text-align:center;
+}
+h1,h2,h3,h4,h5,h6,p {
+    color:white;
+    font-family:arial;
+}
+#LeftPanel {
+    float:left;
+background-color:rgb(154, 154, 154);
+border-radius:15px;
+}
+canvas {
+    border-radius:15px;
+    box-shadow:10px 10px 10px black;
+}
